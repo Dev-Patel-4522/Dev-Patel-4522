@@ -6,7 +6,7 @@ A passionate <b>Frontend Developer</b> with a keen eye for design, a knack for <
 
 🚀 My Go-To Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,git,github,figma,canva&perline=6&theme=dark&animate=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,git,github,figma,canva,netlify&perline=6&theme=dark&animate=true" />
 </p>
 
 📈 GitHub Insights
