@@ -12,5 +12,5 @@
 ![Dev Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Patel-4522&show_icons=true&theme=radical)
 
 ### 📫 Connect with me
-- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dev-patel-0bba48219/))  
+- [LinkedIn](https://www.linkedin.com/in/dev-patel-0bba48219/)  
 - [Portfolio](https://dev-portfoliosite.netlify.app/)
