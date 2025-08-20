@@ -6,13 +6,21 @@ A passionate <b>Frontend Developer</b> with a keen eye for design, a knack for <
 
 🚀 My Go-To Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,git,github,figma,canva" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,git,github,figma,canva&perline=6&theme=dark&animate=true" />
 </p>
 
 📈 GitHub Insights
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dev-Patel-4522&color=blueviolet" alt="Profile views" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dev-Patel-4522&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dev Patel GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Patel-4522&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Patel-4522&theme=radical&hide_border=true" alt="GitHub Contributions Streak" />
 </p>
 
 🌐 Let's Connect!
