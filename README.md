@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Dev Patel  
 
-<!--
-**Dev-Patel-4522/Dev-Patel-4522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- React, Tailwind CSS  
+- Node.js
+- MongoDB, PostgreSQL
+- TypeScript, JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Dev Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Patel-4522&show_icons=true&theme=radical)
+
+### 📫 Connect with me
+- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dev-patel-0bba48219/))  
+- [Portfolio](https://dev-portfoliosite.netlify.app/)
