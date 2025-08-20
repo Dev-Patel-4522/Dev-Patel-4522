@@ -3,9 +3,8 @@
 🕸️ Frontend Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast | 🧑‍💻 Tech Enthusiast  
 
 ### 🔧 Tech Stack
-- React, Tailwind CSS  
+- HTML, CSS, JS, TS, React, Tailwind CSS, Material UI  
 - Node.js
-- MongoDB, PostgreSQL
 - TypeScript, JavaScript 
 
 ### 📊 GitHub Stats
