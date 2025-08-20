@@ -11,7 +11,7 @@ A passionate <b>Frontend Developer</b> with a keen eye for design, a knack for <
 
 📈 GitHub Insights
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dev-Patel-4522&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Dev-Patel-4522&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
