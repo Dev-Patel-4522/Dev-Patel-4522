@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dev Patel  
 
-🚀 Full Stack Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast  
+🕸️ Frontend Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast | 🧑‍💻 Tech Enthusiast  
 
 ### 🔧 Tech Stack
 - React, Tailwind CSS  
