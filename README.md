@@ -23,9 +23,11 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-patel-0bba48219/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://dev-portfoliosite.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=Firefox&logoColor=white"/></a>
-  <a href="mailto:devpatel7524@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dev-patel-0bba48219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev-portfoliosite.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://x.com/devmghpatel"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/npm.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:devpatel7524@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
